@@ -4,4 +4,4 @@ This is an app listing recipes in the home screen and detailed recipe in a secon
 
 ## APK file
 
-[View the file](app-release.apk)
+[Click here to view the APK file](app-release.apk)
